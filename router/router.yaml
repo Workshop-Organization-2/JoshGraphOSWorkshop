@@ -28,8 +28,6 @@ subscription:
         products:
          path: /
 
-## Enter Workshop Module Configs Below
-
 ## Authentication and Authorization Module
 authentication:
   router:
